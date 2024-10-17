@@ -24,8 +24,8 @@ Schafkopfen ist ein beliebtes bayerisches Kartenspiel für 4 Spieler. Jeder Spie
 ### App ausführen
 1. **Repository klonen**:
    ```bash
-   git clone <REPOSITORY-URL>
-   cd <REPOSITORY-ORDNER>
+   git clone https://github.com/Seakuh/LupfenUndSchafkopf
+   cd https://github.com/Seakuh/LupfenUndSchafkopf
    ```
 
 2. **Abhängigkeiten installieren**:
